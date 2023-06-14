@@ -1,0 +1,17 @@
+.scatterplotChartTitle {
+    margin: 10px;
+    margin-left: 20px;
+    position: relative;
+    color: black;
+}
+
+.scatterPlotSVGContainer {
+    position: relative;
+}
+
+.scatterPlotSVG {
+    margin: 10px;
+    margin-top: 0px;
+    margin-left: 20px;
+    position: absolute;
+}
